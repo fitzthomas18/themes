@@ -1,8 +1,5 @@
 #tabbrowser-tabs[orient="vertical"]:not([expanded])
     .tabbrowser-tab:not([pinned]):hover {
-    .tab-icon-stack {
-        display: none;
-    }
     .tab-close-button {
         display: flex !important;
         margin-inline-start: -2px;
